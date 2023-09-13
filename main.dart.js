@@ -60108,7 +60108,7 @@ case 5:case 4:case 1:return A.U(q,r)}})
 return A.V($async$om,r)},
 X(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=t.w,g=A.d4(a,i,h).w.a.b
 h=A.d4(a,i,h).w.a.a-24
-s=Math.min(h/8,(g-32)/8)
+s=Math.min(h/5,(g-32)/5)
 r=Math.min(h/4,(g-s-32)/4)
 q=r*4+24
 h=new A.a0J(j)
@@ -60121,12 +60121,12 @@ n=A.ae(new A.af(o,new A.a0M(j,r),n),!0,n.h("b5.E"))
 o=A.aL([null,0],t.st,t.S)
 m=n.length
 o=A.pD(i,A.DF(new A.Ab(new A.Xj(4,8,8,1),new A.Xf(!0,!0,!0,n,o),new A.bE(8,8,8,8),B.bQ,!1,i,i,new A.Bp(i),!0,i,m,B.aT,B.Dz,i,B.aH,i),i,q),i,i,i,q,i,i,i)
-h=A.DF(new A.pu(s/15,h.$0(),i,i,new A.oZ(B.co,t.be),i,i,i),s,s)
+h=A.DF(new A.pu(s/20,h.$0(),i,i,new A.oZ(B.co,t.be),i,i,i),s,s)
 n=j.f
 m=n==="\uc14b"||n==="\ub458"||n==="\ud558\ub098"||j.r?i:new A.a0N(j)
 l=new A.d1(B.Y,0,B.aQ,-1)
 k=t.nA
-return A.aa1(p,A.a4I(new A.jc(new A.b0(0,1/0,0,g),new A.yI(B.bQ,B.Bj,B.oa,B.iH,i,B.ha,i,A.a([new A.zP(o,i),A.Xw(B.at,A.a([h,A.a8X(!1,A.xZ(s),!0,A.pD(B.at,new A.Ec(n,i,A.u6(i,i,A.aN(255,34,102,141),i,i,i,i,i,"HStkb",i,i,s/4,B.xy,i,B.bq,i,i,!0,i,i,i,i,i,i,i,i),i,i),i,i,new A.f1(B.Y,i,new A.cN(l,l,l,l),i,i,i,B.v1),s,i,i,s),i,!0,i,i,i,i,i,i,i,i,i,m,i)],k),B.fX)],k),i),i),i,i))}}
+return A.aa1(p,A.a4I(new A.jc(new A.b0(0,1/0,0,g),new A.yI(B.bQ,B.Bj,B.oa,B.iH,i,B.ha,i,A.a([new A.zP(o,i),A.Xw(B.at,A.a([h,A.a8X(!1,A.xZ(s),!0,A.pD(B.at,new A.Ec(n,i,A.u6(i,i,A.aN(255,34,102,141),i,i,i,i,i,"HStkb",i,i,s/3,B.xy,i,B.bq,i,i,!0,i,i,i,i,i,i,i,i),i,i),i,i,new A.f1(B.Y,i,new A.cN(l,l,l,l),i,i,i,B.v1),s,i,i,s),i,!0,i,i,i,i,i,i,i,i,i,m,i)],k),B.fX)],k),i),i),i,i))}}
 A.a0T.prototype={
 $0(){var s,r,q,p=this.a
 p.f=this.b[this.c]
